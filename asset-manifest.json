@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/Carlicho/clase-09devbranch/static/css/main.2ece8a95.css",
-    "main.js": "/Carlicho/clase-09devbranch/static/js/main.79470555.js",
+    "main.js": "/Carlicho/clase-09devbranch/static/js/main.5f35f57b.js",
     "static/js/787.51688104.chunk.js": "/Carlicho/clase-09devbranch/static/js/787.51688104.chunk.js",
     "static/media/marchaimperial.mp4": "/Carlicho/clase-09devbranch/static/media/marchaimperial.49404bb7a4dabae5bea3.mp4",
     "static/media/lattente.mp3": "/Carlicho/clase-09devbranch/static/media/lattente.cf5a59f87924d94d52f7.mp3",
     "static/media/imgdisk.jpg": "/Carlicho/clase-09devbranch/static/media/imgdisk.964dcb4005365927f403.jpg",
     "index.html": "/Carlicho/clase-09devbranch/index.html",
     "main.2ece8a95.css.map": "/Carlicho/clase-09devbranch/static/css/main.2ece8a95.css.map",
-    "main.79470555.js.map": "/Carlicho/clase-09devbranch/static/js/main.79470555.js.map",
+    "main.5f35f57b.js.map": "/Carlicho/clase-09devbranch/static/js/main.5f35f57b.js.map",
     "787.51688104.chunk.js.map": "/Carlicho/clase-09devbranch/static/js/787.51688104.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2ece8a95.css",
-    "static/js/main.79470555.js"
+    "static/js/main.5f35f57b.js"
   ]
 }
