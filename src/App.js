@@ -6,12 +6,13 @@ import {Link, BrowserRouter, Route, Routes} from "react-router-dom"
 import Player from './Components/Player/Player';
 import Video from './Components/Video/Video';
 
+
 function App() {
 
 
 
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Header titulo="Music Web-app"/>
       <ul className='nav bg-dark ' >
         <li><Link className='nav-link' to="Player" alt="">Player</Link></li>
@@ -21,8 +22,8 @@ function App() {
       
       <main className="container">
         <Routes>
-        <Route path="Player" element={<Player/>}></Route>
-        <Route path="Video" element={<Video/>}></Route>
+        <Route exact path="Player" element={<Player/>}></Route>
+        <Route exact path="Video" element={<Video/>}></Route>
         </Routes>
     
 

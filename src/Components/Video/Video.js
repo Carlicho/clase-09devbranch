@@ -1,14 +1,23 @@
 import React, { Component } from "react";
-import video from '../assets/video/marchaimperial.mp4'
+import ReactPlayer from 'react-player';
+
+
+
+//uso de react-player agregado para tpclase10 + borrar video de manera local para menor peso
 
 export default class Video extends Component {
     render(){
         return(
-            <video className='Video' controls>
-                <source src={video} type='video/mp4'/>
-                
+            <div >
+            <ReactPlayer url='https://youtu.be/vsMWVW4xtwI'  controls/> 
 
-            </video>
+            </div>
+        
+          //  <video className='Video' controls>
+          //      <source src={video} type='video/mp4'/>
+          //      
+//
+          //  </video>
 
 
 

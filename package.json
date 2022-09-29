@@ -2,7 +2,7 @@
   "name": "clase-09devbranch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://carlicho.github.io/clase-09devbranch",
+  "homepage": "https://github.com/Carlicho/clase-09devbranch",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -10,8 +10,10 @@
     "bootstrap": "^5.2.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "react-player": "^2.11.0",
     "react-router-dom": "^6.4.1",
     "react-scripts": "5.0.1",
+    "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
